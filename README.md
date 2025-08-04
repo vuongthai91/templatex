@@ -37,7 +37,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/your-org/templatex"
+	"github.com/vuongthai91/templatex"
 )
 
 func main() {
